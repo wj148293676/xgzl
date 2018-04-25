@@ -6,7 +6,7 @@ import BMap from 'BMap'
 export default {
   data: function() {
     return {
-      winHeight: document.documentElement.clientHeight - 44
+      winHeight: document.documentElement.clientHeight - 45
     }
   },
   props: {
